@@ -14,9 +14,9 @@ For every in the test set, you should predict the correct label.
 -----
 
 ### Practice Skills
-Computer vision fundamentals including simple neural networks
+- Computer vision fundamentals including simple neural networks
 
-Classification methods such as SVM and K-nearest neighbors
+- Classification methods such as SVM and K-nearest neighbors
 
 
 -----
