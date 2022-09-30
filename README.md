@@ -20,3 +20,10 @@ For every in the test set, you should predict the correct label.
 
 
 -----
+
+### Recommended Tutorial
+We highly recommend Alexis Cook’s Titanic Tutorial that walks you through making your very first submission step by step.
+
+https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook
+
+-----
